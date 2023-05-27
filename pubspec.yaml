@@ -1,0 +1,16 @@
+name: cancellation_token_dotnet
+description: Dotnet's CancellationToken in dart. The api is the same so you feel right at home.
+version: 1.0.1
+homepage: https://github.com/aeb-dev/cancellation_token_dart
+repository: https://github.com/aeb-dev/cancellation_token_dart
+issues: https://github.com/aeb-dev/cancellation_token_dart/issues
+
+environment:
+  sdk: ^3.0.1
+
+dependencies:
+  meta: ^1.9.1
+
+dev_dependencies:
+  aeb_lint: ^1.1.0
+  test: ^1.21.0
